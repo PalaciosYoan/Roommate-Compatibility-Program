@@ -23,12 +23,14 @@ Preference Class: This class keep tracks of the preferences of the student of th
 Match Class: This class handles the matching between the given list of students. Simple algorithm as shown below
   
   
+  
   For each student NOT currently matched
+  
     For each rest of students NOT currently matched
         currentScore = studentA.compare(studentB)
         if the currentScore is better than  MaxScore
           bestMatchStudent is student
           bestMatchScore is currentScore
           
-   studentA is now Matched 
+    studentA is now Matched 
     bestMatchStudent is now Matched
