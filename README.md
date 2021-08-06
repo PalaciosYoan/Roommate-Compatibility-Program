@@ -30,5 +30,5 @@ Match Class: This class handles the matching between the given list of students.
           bestMatchStudent is student
           bestMatchScore is currentScore
           
-   studentA is now Matched
+   studentA is now Matched 
     bestMatchStudent is now Matched
